@@ -7,7 +7,7 @@ I'm a Software Engineering student at the University of Alberta, graduating in 2
 ### 🔭 What I'm Working On
 - Weld defect detection of radiographic images using semantic segmentation.
 - Developing a virtual art gallery platform using Angular and TypeScript.
-- Creating a React single-page website for my [personal portfolio](https://zamam-moeez.github.io/).
+- Creating a [personal portfolio](https://zamam-moeez.github.io/) website using React.
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Zamam Moeez](https://www.linkedin.com/in/zamam-moeez)
