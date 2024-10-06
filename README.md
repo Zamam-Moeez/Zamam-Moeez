@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Zamam Moeez
 
-<!--
-**Zamam-Moeez/Zamam-Moeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at the University of Alberta, graduating in 2025. 
 
-Here are some ideas to get you started:
+👀 I’m seeking new graduate software engineering opportunities for May 2025  .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- Weld defect detection of radiographic images using semantic segmentation.
+- Developing a virtual art gallery platform using Angular and TypeScript.
+- Creating a React single-page website for my [personal portfolio](https://zamam-moeez.github.io/).
+
+### 📫 Connect with Me
+- **LinkedIn:** [Zamam Moeez](https://www.linkedin.com/in/zamam-moeez)
+- **Portfolio:** [zamam-moeez.github.io](https://zamam-moeez.github.io/)
+- **Email:** zmoeez@outlook.com. 
+
+Feel free to reach out or explore my projects!
